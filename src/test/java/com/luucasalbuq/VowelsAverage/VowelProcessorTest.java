@@ -15,6 +15,7 @@ import com.luucasalbuq.VowelsAverage.model.VowelSet;
 
 public class VowelProcessorTest {
 	
+	
 	private VowelsProcessor vowelsProcessor;
 	private final String fileNameInput = "input_for_test.txt";
 	private final String fileNameOutput = "output_for_test.txt";
